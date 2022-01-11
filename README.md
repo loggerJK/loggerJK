@@ -19,5 +19,7 @@
 - [Keras/TF] Cartpole DQN [Github](https://github.com/loggerJK/cartpole_DQN)
 
 ## PS Algorithm Solving
+- 2020 UCPC 본선
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jiwon7258)](https://solved.ac/jiwon7258)
