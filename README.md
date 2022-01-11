@@ -5,14 +5,16 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Machine Learning!!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👍To be a Data Scientist
 
+
+
+## Vision
+
+## NLP
+
+## RL
+
+# PS Algorithm Solving
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jiwon7258)](https://solved.ac/jiwon7258)
