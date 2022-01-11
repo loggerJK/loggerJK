@@ -14,7 +14,7 @@
 - CS231n Assingments (Ongoing) [Github](https://github.com/loggerJK/cs231n)
 
 ## NLP
-- [PyTorch] Transformer [Github](https://github.com/loggerJK/transformer-implementation) | [Blog](https://loggerjk.github.io/pytorch/Transformer/)
+- [PyTorch] Transformer Implementation | 파이토치를 이용한 Vanilla Transformer 구현 [Github](https://github.com/loggerJK/transformer-implementation) | [Blog](https://loggerjk.github.io/pytorch/Transformer/)
 
 ## RL
 - [Keras/TF] Cartpole DQN [Github](https://github.com/loggerJK/cartpole_DQN)
