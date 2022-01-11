@@ -7,15 +7,16 @@
 
 # 👍To be a Data Scientist
 - 🐯 Korea University : Computer Science & Engineering | 고려대학교 컴퓨터학과 19학번
-- 🖥️ [My DEV Blog](http://loggerJK.github.io)
+- 🖥️ DEV Blog [Link](http://loggerJK.github.io)
 - [❤️](https://github.com/daisyHyeseul)
 
 ## Vision
 
 ## NLP
-- [PyTorch] Tansfomr
+- [PyTorch] Transformer [Github](https://github.com/loggerJK/transformer-implementation) [Blog Article](https://loggerjk.github.io/pytorch/Transformer/)
 
 ## RL
+- [Keras/TF] Cartpole DQN [Github](https://github.com/loggerJK/cartpole_DQN)
 
 ## PS Algorithm Solving
 
