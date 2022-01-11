@@ -25,5 +25,7 @@
 ## PS Algorithm Solving
 - 2020 UCPC 본선
 
+## ETC
+- 2021 UNI-DTHON 대학 연합 해커톤 DATA 트랙
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jiwon7258)](https://solved.ac/jiwon7258)
