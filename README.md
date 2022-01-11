@@ -11,6 +11,7 @@
 - [❤️](https://github.com/daisyHyeseul)
 
 ## Vision
+- CS231n Assingments (Ongoing)
 
 ## NLP
 - [PyTorch] Transformer [Github](https://github.com/loggerJK/transformer-implementation) | [Blog](https://loggerjk.github.io/pytorch/Transformer/)
