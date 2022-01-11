@@ -13,7 +13,7 @@
 ## Vision
 
 ## NLP
-- [PyTorch] Transformer [Github](https://github.com/loggerJK/transformer-implementation) [Blog Article](https://loggerjk.github.io/pytorch/Transformer/)
+- [PyTorch] Transformer [Github](https://github.com/loggerJK/transformer-implementation) | [Blog](https://loggerjk.github.io/pytorch/Transformer/)
 
 ## RL
 - [Keras/TF] Cartpole DQN [Github](https://github.com/loggerJK/cartpole_DQN)
