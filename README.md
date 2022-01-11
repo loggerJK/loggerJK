@@ -7,7 +7,7 @@
 
 # 👍To be a Data Scientist
 - 🐯 Korea University : Computer Science & Engineering | 고려대학교 컴퓨터학과 19학번
-- 🖥️ DEV Blog [Link](http://loggerJK.github.io)
+- 🖥️ Dev Blog [Link](http://loggerJK.github.io)
 - [❤️](https://github.com/daisyHyeseul)
 
 ## Vision
