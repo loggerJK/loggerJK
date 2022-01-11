@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 <!-- **loggerJK/loggerJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -11,7 +11,7 @@
 - [❤️](https://github.com/daisyHyeseul)
 
 ## Vision
-- CS231n Assingments (Ongoing)
+- CS231n Assingments (Ongoing) [Github](https://github.com/loggerJK/cs231n)
 
 ## NLP
 - [PyTorch] Transformer [Github](https://github.com/loggerJK/transformer-implementation) | [Blog](https://loggerjk.github.io/pytorch/Transformer/)
