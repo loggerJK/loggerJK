@@ -27,6 +27,6 @@
 
 ## Competition
 - 2021 UNI-DTHON 대학 연합 해커톤 DATA 트랙
-- [DACON | LG | 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/leaderboard) Private LB 21th
+- [DACON | LG | 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/leaderboard) Private LB 21st
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jiwon7258)](https://solved.ac/jiwon7258)
