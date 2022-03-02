@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-# 👍To be a Data Scientist
+# 👍To be a Data Scientist / AI Engineer
 - 🐯 Korea University : Computer Science & Engineering | 고려대학교 컴퓨터학과 19학번
 - 🖥️ Dev Blog [Link](http://loggerJK.github.io)
 - [❤️](https://github.com/daisyHyeseul)
