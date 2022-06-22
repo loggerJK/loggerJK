@@ -13,6 +13,8 @@
 ## Vision
 - CS231n Assingments (Ongoing) 
   - [Github](https://github.com/loggerJK/cs231n)
+- YOLO v1 Implementation
+  - [Github](https://github.com/loggerJK/YOLO)
 
 ## NLP
 - [PyTorch] Vanilla Transformer Implementation | 파이토치를 이용한 Vanilla Transformer 구현 
