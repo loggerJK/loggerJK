@@ -12,6 +12,9 @@
 - Leading Position in AIKU (Korea Univ. AI Study Group)
 - LAB Intern in CVLAB under Prof. Seungryong Kim (2022.09~)
 
+## Let's Read Paper!
+[Github](https://github.com/loggerJK/Deep-Learning-Paper-Review)
+
 ## Vision
 - CS231n Assingments (Ongoing) 
   - [Github](https://github.com/loggerJK/cs231n)
