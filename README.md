@@ -9,6 +9,8 @@
 - 🐯 Korea University : Computer Science & Engineering | 고려대학교 컴퓨터학과 19학번
 - 🖥️ Dev Blog [Link](http://loggerJK.github.io)
 - [❤️](https://github.com/daisyHyeseul)
+- Leading Position in AIKU (Korea Univ. AI Study Group)
+- LAB Intern in CVLAB under Prof. Seungryong Kim (2022.09~)
 
 ## Vision
 - CS231n Assingments (Ongoing) 
