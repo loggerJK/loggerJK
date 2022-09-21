@@ -13,7 +13,7 @@
 - LAB Intern in CVLAB under Prof. Seungryong Kim (2022.09~)
 
 ## Let's Read Paper!
-[Github](https://github.com/loggerJK/Deep-Learning-Paper-Review)
+- [What I Read Is Here : Github](https://github.com/loggerJK/Deep-Learning-Paper-Review)
 
 ## Vision
 - CS231n Assingments (Ongoing) 
