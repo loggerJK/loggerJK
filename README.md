@@ -8,8 +8,8 @@
 # 👍To be a Data Scientist | AI Engineer [❤️](https://github.com/daisyHyeseul)
 - 🐯 Korea University : Computer Science & Engineering | 고려대학교 컴퓨터학과 19학번
 - 🖥️ Dev Blog [Link](http://loggerJK.github.io)
-- Leading Position in AIKU (Korea Univ. AI Study Group)
-- Lab Intern in CVLAB under Prof. Seungryong Kim (2022.09~)
+- Leading Position in AIKU (Korea Univ. AI Study Group) (2022.09 ~ 2023.08)
+- Lab Intern in CVLAB under Prof. Seungryong Kim (2022.09 ~ Prsent)
 
 ## Vision
 - CS231n Assingments (Ongoing) 
