@@ -34,7 +34,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jiwon7258)](https://solved.ac/jiwon7258)
 
 ## Archived Courseworks
-- COSE222 Computer Architecture ([Github](https://github.com/loggerJK/COSE222_Computer_Architecture))
-- COSE212 Programming Language ([Github](https://github.com/loggerJK/COSE212_Programming_Language))
-- COSE331 Computer Graphics ([Github](https://github.com/loggerJK/COSE331_Computer_Graphics))
-- COSE436 Interactive Visualization ([Github](https://github.com/loggerJK/COSE436_Interactive_Visualization))
+- COSE222 Computer Architecture (2022 Fall, [Github](https://github.com/loggerJK/COSE222_Computer_Architecture))
+- COSE331 Computer Graphics (2022 Spring, [Github](https://github.com/loggerJK/COSE331_Computer_Graphics))
+- COSE212 Programming Language (2023 Fall, [Github](https://github.com/loggerJK/COSE212_Programming_Language))
+- COSE436 Interactive Visualization (2023 Fall, [Github](https://github.com/loggerJK/COSE436_Interactive_Visualization))
