@@ -27,11 +27,12 @@
 
 ## PS Algorithm Solving
 - 2020 UCPC 본선
+  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jiwon7258)](https://solved.ac/jiwon7258)
+
 
 ## Competition
 - [DACON | LG | 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/leaderboard) Private LB 21st (Top 7%)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jiwon7258)](https://solved.ac/jiwon7258)
 
 ## Archived Courseworks
 - COSE222 Computer Architecture (2022 Fall, [Github](https://github.com/loggerJK/COSE222_Computer_Architecture))
