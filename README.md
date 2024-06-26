@@ -9,7 +9,7 @@
 - Lab Intern in CVLAB under Prof. Seungryong Kim (2022.09 ~ Present)
 
 ## Vision
-- CS231n Assingments (Ongoing) 
+- CS231n Assingments (#1 #2)
   - [Github](https://github.com/loggerJK/cs231n)
 - YOLO v1 Implementation
   - [Github](https://github.com/loggerJK/YOLO)
