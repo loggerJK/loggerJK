@@ -5,7 +5,7 @@
 # 👍To be a Data Scientist | AI Engineer
 - 🐯 Korea University : Computer Science & Engineering | 고려대학교 컴퓨터학과 19학번
 - 🖥️ Dev Blog [Link](http://loggerJK.github.io)
-- 0th & 1st Gen. Leader of [AIKU](https://aiku.notion.site/) (Korea Univ. AI Society) (2022.09 ~ 2023.08)
+- Vice president of [AIKU](https://aiku.notion.site/) (Korea Univ. AI Society) (2022.07 ~ 2023.06)
 - Lab Intern in CVLAB under Prof. Seungryong Kim (2022.09 ~ Present)
 
 ## Vision
