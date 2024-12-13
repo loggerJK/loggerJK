@@ -34,5 +34,5 @@
 ## Archived Courseworks
 - COSE222 Computer Architecture (2022 Fall, [Github](https://github.com/loggerJK/COSE222_Computer_Architecture))
 - COSE331 Computer Graphics (2023 Spring, [Github](https://github.com/loggerJK/COSE331_Computer_Graphics))
-- COSE212 Programming Language (2023 Fall, [Github](https://github.com/loggerJK/COSE212_Programming_Language))
+- COSE212 Programming Language (2023 Fall, [Github](https://github.com/loggerJK/COSE212_Programming_Language), Private Reop due to request of TA)
 - COSE436 Interactive Visualization (2023 Fall, [Github](https://github.com/loggerJK/COSE436_Interactive_Visualization))
