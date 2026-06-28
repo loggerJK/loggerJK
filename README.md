@@ -23,11 +23,11 @@
 
 ## NLP
 - [PyTorch] Vanilla Transformer Implementation | 파이토치를 이용한 Vanilla Transformer 구현 
-  - [Github](https://github.com/loggerJK/transformer-implementation) | [Blog](https://loggerjk.github.io/pytorch/Transformer/)
+  - [Github](https://github.com/loggerJK/transformer-implementation) | [Blog - Deprecated](https://loggerjk.github.io/pytorch/Transformer/)
 
 ## RL
 - [Keras/TF] Cartpole DQN 
-  - [Github](https://github.com/loggerJK/cartpole_DQN) | [Blog](https://loggerjk.github.io/deeplearning/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-Tensorflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-DQN-%EA%B5%AC%ED%98%84-(cartpole_v0)/)
+  - [Github](https://github.com/loggerJK/cartpole_DQN) | [Blog - Deprecated](https://loggerjk.github.io/deeplearning/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-Tensorflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-DQN-%EA%B5%AC%ED%98%84-(cartpole_v0)/)
 
 ## PS/Algorithm
 - 2020 UCPC 본선
