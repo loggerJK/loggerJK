@@ -3,17 +3,17 @@
 <!-- Here are some ideas to get you started: -->
 
 # Hello, I'm Jiwon Kang
-- Integrated M.S./Ph.D. @ KAIST AI (CVLAB), advised by Seungryong Kim
-- Diffusion & generative models · 3D vision · unified multimodal models
+- Integrated M.S./Ph.D. @ KAIST AI (CVLAB), advised by Seungryong Kim (2025.03 ~ Present)
+- Research Intereset: Diffusion & generative models · 3D vision · unified multimodal models
 
-📄 Research & publications → Please visit https://loggerjk.github.io
+📄 For latest research & publications → Please visit https://loggerjk.github.io
 
 ---
 # Earlier / Undergraduate Work
 - 🐯 Korea University : Computer Science & Engineering | 고려대학교 컴퓨터학과 19학번
 - 🖥️ Dev Blog [Link](http://loggerJK.github.io)
 - Vice president of [AIKU](https://aiku.notion.site/) (Korea Univ. AI Society) (2022.07 ~ 2023.06)
-- Lab Intern in CVLAB under Prof. Seungryong Kim (2022.09 ~ Present)
+- Lab Intern in CVLAB under Prof. Seungryong Kim (2022.09 ~ 2025.02)
 
 ## Vision
 - CS231n Assingments (#1 #2)
