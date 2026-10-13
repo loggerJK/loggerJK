@@ -2,13 +2,12 @@
 
 <!-- Here are some ideas to get you started: -->
 
-# Hello, I'm Jiwon Kang
+# Hello, I'm Jiwon Kang. Currently, I am : 
 - Integrated M.S./Ph.D. @ KAIST AI (CVLAB), advised by Seungryong Kim (2025.03 ~ Present)
 - Research Intereset: Diffusion & generative models · 3D vision · unified multimodal models
 
 📄 For latest research & publications → Please visit https://loggerjk.github.io
 
----
 # Earlier / Undergraduate Work
 - 🐯 Korea University : Computer Science & Engineering | 고려대학교 컴퓨터학과 19학번
 - 🖥️ Dev Blog [Link](http://loggerJK.github.io)
